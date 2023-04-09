@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Barryvdh\\Debugbar\\ServiceProvider"
+                "Bitfumes\\Contact\\ContactServiceProvider"
             ]
      
         }
