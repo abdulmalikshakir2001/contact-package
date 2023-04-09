@@ -15,12 +15,6 @@
         "psr-4": {
             "Bitfumes\\Contact\\":"src/"
         }
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Bitfumes\\Contact\\ContactServiceProvider"
-            ]
-        }
     }
+
 }
